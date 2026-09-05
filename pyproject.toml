@@ -1,7 +1,7 @@
 [project]
 name = "credit_engine"
 version = "0.1.0"
-description = "A credit decision egine, made for evaluate pontencial of real states costumers"
+description = "A credit decision engine, made to evaluate the potential of real estate customers"
 requires-python= ">=3.11"
 dependencies = []
 
